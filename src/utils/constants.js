@@ -1,0 +1,4 @@
+//export constants
+export const QUESTION_INPUT = 'QUESTION_INPUT'
+export const QUESTION_OPTIONS = 'QUESTION_OPTIONS'
+export const QUESTION_ATTACHMENT = 'QUESTION_ATTACHMENT'
