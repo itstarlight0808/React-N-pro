@@ -6,7 +6,7 @@ import {
     ActivityIndicator
 } from 'react-native';
 import colors from '../utils/colors';
-
+  
 export default DrawerItem = (props) => {
     return (
         <TouchableOpacity
